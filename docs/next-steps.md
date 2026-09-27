@@ -1,0 +1,3 @@
+# Production completion checklist
+
+This repository demonstrates the connected core and backend rules. Before calling it a full live roadside service, implement and test: secure OTP gateway, session revocation and rate limits; mechanic document verification with private storage; location/map confirmation; a real-time authorized job channel and live tracking; payment provider order creation, verified webhook reconciliation and refunds; invoice PDF; photos; towing flow; support and disputes; automated DB integration and end-to-end tests; deployment, monitoring and backup restore. Protect API and database with TLS and secrets management. Do not permit real rescue requests until dispatch operations and an emergency escalation process exist.

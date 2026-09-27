@@ -1,0 +1,8 @@
+analyzer:
+  errors:
+    invalid_assignment: error
+    missing_required_argument: error
+linter:
+  rules:
+    - avoid_print
+    - prefer_const_constructors
